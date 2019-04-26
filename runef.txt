@@ -1,0 +1,4 @@
+Name:diego
+City: Mexico
+age: 24
+job: Mecatronico
